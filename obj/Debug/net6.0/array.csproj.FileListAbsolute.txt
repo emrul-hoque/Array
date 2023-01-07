@@ -1,0 +1,15 @@
+E:\Emrul\C#\repos\array\bin\Debug\net6.0\array.exe
+E:\Emrul\C#\repos\array\bin\Debug\net6.0\array.deps.json
+E:\Emrul\C#\repos\array\bin\Debug\net6.0\array.runtimeconfig.json
+E:\Emrul\C#\repos\array\bin\Debug\net6.0\array.dll
+E:\Emrul\C#\repos\array\bin\Debug\net6.0\array.pdb
+E:\Emrul\C#\repos\array\obj\Debug\net6.0\array.csproj.AssemblyReference.cache
+E:\Emrul\C#\repos\array\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Emrul\C#\repos\array\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+E:\Emrul\C#\repos\array\obj\Debug\net6.0\array.AssemblyInfo.cs
+E:\Emrul\C#\repos\array\obj\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+E:\Emrul\C#\repos\array\obj\Debug\net6.0\array.dll
+E:\Emrul\C#\repos\array\obj\Debug\net6.0\refint\array.dll
+E:\Emrul\C#\repos\array\obj\Debug\net6.0\array.pdb
+E:\Emrul\C#\repos\array\obj\Debug\net6.0\array.genruntimeconfig.cache
+E:\Emrul\C#\repos\array\obj\Debug\net6.0\ref\array.dll
